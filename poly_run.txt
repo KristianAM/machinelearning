@@ -1,0 +1,238 @@
+login as: morjoh67
+morjoh67@fh.cs.au.dk's password:
+Welcome to Ubuntu 12.04.5 LTS (GNU/Linux 3.2.0-114-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+
+
+-bash: /usr/local/man:/usr/local/share/man:/usr/share/man: No such file or directory
+declare -x DAIMILOGIN="yes"
+declare -x DERBY_HOME="/usr/lib/jvm/java-8-oracle/db"
+declare -x DISPLAY="localhost:10.0"
+declare -x EDITOR="emacsclient"
+declare -x HOME="/users/morjoh67"
+declare -x INPUTRC="/users/morjoh67/.inputrc"
+declare -x J2REDIR="/usr/lib/jvm/java-8-oracle/jre"
+declare -x J2SDKDIR="/usr/lib/jvm/java-8-oracle"
+declare -x JAVA_HOME="/usr/lib/jvm/java-8-oracle"
+declare -x LANG="C"
+declare -x LC_CTYPE="da_DK"
+declare -x LESS="-MgQeI"
+declare -x LESSCHARSET="latin1"
+declare -x LOGNAME="morjoh67"
+declare -x MAIL="/usr/spool/mail/morjoh67"
+declare -x MANPATH
+declare -x MM_CHARSET="iso-8859-1"
+declare -x NODE_PATH="/usr/lib/nodejs:/usr/lib/node_modules:/usr/share/javascript"
+declare -x OLDPWD
+declare -x OP_TYPE="Linux 3.2.0-114-generic"
+declare -x PAGER="less -s"
+declare -x PATH="/usr/local/gnu/bin:/usr/local/bin:/usr/bin/X11:/bin:/usr/bin:/usr/games:."
+declare -x PWD="/users/morjoh67"
+declare -x SHELL="/usr/local/bin/bash"
+declare -x SHLVL="1"
+declare -x SPEECHD_PORT="19190"
+declare -x SSH_CLIENT="10.11.81.157 55019 22"
+declare -x SSH_CONNECTION="10.11.81.157 55019 10.11.82.9 22"
+declare -x SSH_TTY="/dev/pts/6"
+declare -x TERM="xterm"
+declare -x USER="morjoh67"
+declare -x VISUAL="emacsclient"
+declare -x XDG_SESSION_COOKIE="2bfcea689c47ad4b1a30f9fd4d67a0bf-1477590706.893652-510748726"
+[morjoh67@llama09:~]$ PATH="$PATH:/users/morjoh67/anaconda3/bin"
+[morjoh67@llama09:~]$ cd anaconda3/bin/programmer/
+[morjoh67@llama09:...bin/programmer]$ python3.5 HandIn2.py
+tid  19:54:16.109103
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+0.787 (+/-0.009) for {'C': 0.01, 'kernel': 'poly', 'degree': 1.0}
+0.719 (+/-0.083) for {'C': 0.01, 'kernel': 'poly', 'degree': 6.0}
+0.537 (+/-0.230) for {'C': 0.01, 'kernel': 'poly', 'degree': 10.0}
+0.872 (+/-0.005) for {'C': 0.17782794100389229, 'kernel': 'poly', 'degree': 1.0}
+0.719 (+/-0.083) for {'C': 0.17782794100389229, 'kernel': 'poly', 'degree': 6.0}
+0.537 (+/-0.230) for {'C': 0.17782794100389229, 'kernel': 'poly', 'degree': 10.0}
+0.920 (+/-0.003) for {'C': 3.1622776601683795, 'kernel': 'poly', 'degree': 1.0}
+0.806 (+/-0.073) for {'C': 3.1622776601683795, 'kernel': 'poly', 'degree': 6.0}
+0.537 (+/-0.230) for {'C': 3.1622776601683795, 'kernel': 'poly', 'degree': 10.0}
+0.929 (+/-0.007) for {'C': 56.234132519034908, 'kernel': 'poly', 'degree': 1.0}
+0.840 (+/-0.008) for {'C': 56.234132519034908, 'kernel': 'poly', 'degree': 6.0}
+0.548 (+/-0.267) for {'C': 56.234132519034908, 'kernel': 'poly', 'degree': 10.0}
+0.915 (+/-0.006) for {'C': 1000.0, 'kernel': 'poly', 'degree': 1.0}
+0.908 (+/-0.006) for {'C': 1000.0, 'kernel': 'poly', 'degree': 6.0}
+0.849 (+/-0.033) for {'C': 1000.0, 'kernel': 'poly', 'degree': 10.0}
+             precision    recall  f1-score   support
+
+          0       0.96      0.99      0.98       258
+          1       0.91      0.93      0.92       258
+          2       0.95      0.94      0.94       258
+          3       0.90      0.93      0.92       258
+          4       0.95      0.92      0.94       258
+          5       0.94      0.89      0.91       258
+          6       0.96      0.96      0.96       258
+          7       0.95      0.95      0.95       258
+          8       0.90      0.89      0.90       258
+          9       0.88      0.90      0.89       258
+
+avg / total       0.93      0.93      0.93      2580
+
+best params  {'C': 56.234132519034908, 'kernel': 'poly', 'degree': 1.0}
+tid  22:32:48.289853
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+0.010 (+/-0.000) for {'C': 3.1622776601683795, 'kernel': 'poly', 'degree': 0.0}
+0.886 (+/-0.011) for {'C': 3.1622776601683795, 'kernel': 'poly', 'degree': 3.0}
+0.806 (+/-0.073) for {'C': 3.1622776601683795, 'kernel': 'poly', 'degree': 6.0}
+0.010 (+/-0.000) for {'C': 56.234132519034908, 'kernel': 'poly', 'degree': 0.0}
+0.950 (+/-0.006) for {'C': 56.234132519034908, 'kernel': 'poly', 'degree': 3.0}
+0.840 (+/-0.008) for {'C': 56.234132519034908, 'kernel': 'poly', 'degree': 6.0}
+0.010 (+/-0.000) for {'C': 1000.0, 'kernel': 'poly', 'degree': 0.0}
+0.963 (+/-0.005) for {'C': 1000.0, 'kernel': 'poly', 'degree': 3.0}
+0.908 (+/-0.006) for {'C': 1000.0, 'kernel': 'poly', 'degree': 6.0}
+             precision    recall  f1-score   support
+
+          0       0.98      0.99      0.98       258
+          1       0.95      0.98      0.96       258
+          2       0.99      0.97      0.98       258
+          3       0.93      0.97      0.94       258
+          4       0.98      0.95      0.96       258
+          5       0.97      0.93      0.95       258
+          6       0.98      0.97      0.97       258
+          7       0.97      0.97      0.97       258
+          8       0.95      0.95      0.95       258
+          9       0.94      0.93      0.93       258
+
+avg / total       0.96      0.96      0.96      2580
+
+best params  {'C': 1000.0, 'kernel': 'poly', 'degree': 3.0}
+tid  23:56:30.792721
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/users/morjoh67/anaconda3/lib/python3.5/site-packages/sklearn/metrics/classification.py:1113: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+0.010 (+/-0.000) for {'C': 56.234132519034908, 'kernel': 'poly', 'degree': 0.0}
+0.950 (+/-0.006) for {'C': 56.234132519034908, 'kernel': 'poly', 'degree': 3.0}
+0.840 (+/-0.008) for {'C': 56.234132519034908, 'kernel': 'poly', 'degree': 6.0}
+0.010 (+/-0.000) for {'C': 335.36288560016573, 'kernel': 'poly', 'degree': 0.0}
+0.960 (+/-0.003) for {'C': 335.36288560016573, 'kernel': 'poly', 'degree': 3.0}
+0.886 (+/-0.007) for {'C': 335.36288560016573, 'kernel': 'poly', 'degree': 6.0}
+0.010 (+/-0.000) for {'C': 2000.0000000000002, 'kernel': 'poly', 'degree': 0.0}
+0.962 (+/-0.006) for {'C': 2000.0000000000002, 'kernel': 'poly', 'degree': 3.0}
+0.919 (+/-0.004) for {'C': 2000.0000000000002, 'kernel': 'poly', 'degree': 6.0}
+             precision    recall  f1-score   support
+
+          0       0.98      0.99      0.98       258
+          1       0.94      0.97      0.96       258
+          2       0.99      0.97      0.98       258
+          3       0.94      0.97      0.95       258
+          4       0.98      0.95      0.97       258
+          5       0.97      0.94      0.95       258
+          6       0.97      0.97      0.97       258
+          7       0.96      0.97      0.97       258
+          8       0.95      0.95      0.95       258
+          9       0.93      0.93      0.93       258
+
+avg / total       0.96      0.96      0.96      2580
+
+best params  {'C': 2000.0000000000002, 'kernel': 'poly', 'degree': 3.0}
+({'C': 2000.0000000000002, 'kernel': 'poly', 'degree': 3.0}, '             precision    recall  f1-score   support\n\n          0       0.98      0.99      0.98       258\n          1       0.94      0.97      0.96       258\n          2       0.99      0.97      0.98       258\n          3       0.94      0.97      0.95       258\n          4       0.98      0.95      0.97       258\n          5       0.97      0.94      0.95       258\n          6       0.97      0.97      0.97       258\n          7       0.96      0.97      0.97       258\n          8       0.95      0.95      0.95       258\n          9       0.93      0.93      0.93       258\n\navg / total       0.96      0.96      0.96      2580\n')
